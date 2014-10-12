@@ -1,0 +1,44 @@
+#main {
+	width: 900px;
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial
+}
+
+#header {
+	border: 1px solid gray;
+	width: 898px;
+	height: 150px;
+	text-align: center;
+	background-image: url("images/banner.jpg");
+}
+
+#menu {
+	width: 150px;
+	border:1px solid gray;
+	float: left;
+	min-height: 500px;
+	text-align: center;
+}
+
+#content {
+	width: 720px;
+	border: 1px solid gray;
+	float: left;
+	min-height: 500px;
+	padding: 12px;
+}
+
+#contentmain {
+	width: 898px;
+}
+
+#footer {
+	width: 898px;
+	border: 1px solid gray;
+	text-align: center;
+	font-size: 12px;
+	color: gray;
+	float: left;
+	clear:both;
+}
